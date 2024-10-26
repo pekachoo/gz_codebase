@@ -23,7 +23,7 @@ def generate_launch_description():
             arguments=[
                 '-entity', 'my_robot',
                 '-file', LaunchConfiguration('urdf_file'),
-                '-x', '0', '-y', '0', '-z', '0.5'
+                '-x', '0', '-y', '0', '-z', '1'
             ],
             output='screen'
         )
