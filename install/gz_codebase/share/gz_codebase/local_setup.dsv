@@ -1,0 +1,2 @@
+source;share/gz_codebase/environment/ament_prefix_path.sh
+source;share/gz_codebase/environment/path.sh
