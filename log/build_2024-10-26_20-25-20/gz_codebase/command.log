@@ -1,2 +1,0 @@
-Invoking command in '/home/jliu6162/ros2_ws/build/gz_codebase': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/jliu6162/ros2_ws/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/jliu6162/ros2_ws/install/gz_codebase
-Invoked command in '/home/jliu6162/ros2_ws/build/gz_codebase' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/jliu6162/ros2_ws/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/jliu6162/ros2_ws/install/gz_codebase

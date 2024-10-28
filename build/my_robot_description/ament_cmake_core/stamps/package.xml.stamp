@@ -3,7 +3,7 @@
 <package format="3">
   <name>my_robot_description</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
+  <description>gazebo codebase</description>
   <maintainer email="jliu6162@gmail.com">jliu6162</maintainer>
   <license>TODO: License declaration</license>
 
