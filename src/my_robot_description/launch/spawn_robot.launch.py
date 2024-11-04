@@ -7,7 +7,7 @@ from launch_ros.actions import Node
 def generate_launch_description():
     # Create the absolute path to the URDF file
     urdf_file_path = os.path.join(
-        os.getenv('HOME'), 'ros2_ws', 'src', 'my_robot_description', 'urdf', 'my_robot.urdf'
+        os.getenv('HOME'), 'ros2_ws', 'src', 'my_robot_description', 'urdf', 'example_robot.urdf'
     )
 
     return LaunchDescription([
@@ -21,7 +21,7 @@ def generate_launch_description():
             package='gazebo_ros',
             executable='spawn_entity.py',
             arguments=[
-                '-entity', 'my_robot',
+                '-entity', 'robot',
                 '-file', LaunchConfiguration('urdf_file'),
                 '-x', '0', '-y', '0', '-z', '1'
             ],
