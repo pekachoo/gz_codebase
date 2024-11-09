@@ -1,5 +1,6 @@
 /home/jliu6162/ros2_ws/install/my_robot_description/share/my_robot_description/launch/__pycache__/spawn_robot.launch.cpython-310.pyc
 /home/jliu6162/ros2_ws/install/my_robot_description/share/my_robot_description/launch/launch_custom_world.launch.py
+/home/jliu6162/ros2_ws/install/my_robot_description/share/my_robot_description/launch/launch_jsp.launch.py
 /home/jliu6162/ros2_ws/install/my_robot_description/share/my_robot_description/launch/robot_state_publisher.launch.py
 /home/jliu6162/ros2_ws/install/my_robot_description/share/my_robot_description/launch/spawn_robot.launch.py
 /home/jliu6162/ros2_ws/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
